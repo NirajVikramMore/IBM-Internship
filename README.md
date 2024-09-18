@@ -64,7 +64,4 @@ The water_potability.csv file contains water quality metrics for 3276 different 
   </tr>
 </table>
 
-## Usage 
-```
-https://github.com/Raj140503/IBM-Internship
-```
+
